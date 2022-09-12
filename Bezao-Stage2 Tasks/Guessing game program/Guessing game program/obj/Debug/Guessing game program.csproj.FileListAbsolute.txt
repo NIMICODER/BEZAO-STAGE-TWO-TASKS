@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\VS CODE\Guessing game program\Guessing game program\obj\Debug\Guessing game program.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\VS CODE\Guessing game program\Guessing game program\obj\Debug\Guessing game program.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\VS CODE\Guessing game program\Guessing game program\obj\Debug\Guessing game program.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS CODE\Guessing game program\Guessing game program\bin\Debug\Guessing game program.exe.config
+C:\Users\HP\Desktop\VS CODE\Guessing game program\Guessing game program\bin\Debug\Guessing game program.exe
+C:\Users\HP\Desktop\VS CODE\Guessing game program\Guessing game program\bin\Debug\Guessing game program.pdb
+C:\Users\HP\Desktop\VS CODE\Guessing game program\Guessing game program\obj\Debug\Guessing game program.exe
+C:\Users\HP\Desktop\VS CODE\Guessing game program\Guessing game program\obj\Debug\Guessing game program.pdb

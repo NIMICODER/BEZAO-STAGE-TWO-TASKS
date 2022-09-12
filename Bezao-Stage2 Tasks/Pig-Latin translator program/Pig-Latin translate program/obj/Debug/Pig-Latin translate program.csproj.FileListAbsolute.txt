@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\VS CODE\Pig-Latin translate program\Pig-Latin translate program\bin\Debug\Pig-Latin translate program.exe.config
+C:\Users\HP\Desktop\VS CODE\Pig-Latin translate program\Pig-Latin translate program\bin\Debug\Pig-Latin translate program.exe
+C:\Users\HP\Desktop\VS CODE\Pig-Latin translate program\Pig-Latin translate program\bin\Debug\Pig-Latin translate program.pdb
+C:\Users\HP\Desktop\VS CODE\Pig-Latin translate program\Pig-Latin translate program\obj\Debug\Pig-Latin translate program.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\VS CODE\Pig-Latin translate program\Pig-Latin translate program\obj\Debug\Pig-Latin translate program.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\VS CODE\Pig-Latin translate program\Pig-Latin translate program\obj\Debug\Pig-Latin translate program.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VS CODE\Pig-Latin translate program\Pig-Latin translate program\obj\Debug\Pig-Latin translate program.exe
+C:\Users\HP\Desktop\VS CODE\Pig-Latin translate program\Pig-Latin translate program\obj\Debug\Pig-Latin translate program.pdb
